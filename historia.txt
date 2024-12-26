@@ -4,3 +4,4 @@ El velociraptor
 El utahraptor
 El dromaeosaurus
 El oviraptor
+El T-Rex
